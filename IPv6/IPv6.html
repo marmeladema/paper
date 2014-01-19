@@ -872,7 +872,11 @@ root@atlantis:~# ip -6 route show dev eth0
 					<div class="box-content">
 						<ul>
 							<li>Permet de fragmenter un paquet en plusieurs</li>
-							<li><i>Fragment Offset</i> (13 bits) : offset des donn&eacute;es dans le paquet initial</li>
+							<li><i>Fragment Offset</i> (13 bits) : offset des donn&eacute;es dans le paquet initial
+								<ul style="margin: 0">
+									<li>En unit&eacute; de 8 octets</li>
+								</ul>
+							</li>
 							<li><i>M</i> : reste-t-il des fragments ?</li>
 							<li><i>Identification</i> : identifie un ensemble de fragments</li>
 						</ul>
@@ -910,7 +914,7 @@ root@atlantis:~# ip -6 route show dev eth0
 						<td colspan="4">Version = 6</td><td colspan="8">Traffic Class</td><td colspan="20">Flow Label</td>
 					</tr>
 					<tr>
-						<td colspan="16">Payload Length = 33</td><td colspan="8">Next Header = 6</td><td colspan="8">Hop Limit</td>
+						<td colspan="16">Payload Length = 29</td><td colspan="8">Next Header = 6</td><td colspan="8">Hop Limit</td>
 					</tr>
 					<tr>
 						<td colspan="8" style="border-right:0;"><br/></td><td colspan="16" style="border-left:0;border-right:0"> ... Source Address ...</td><td colspan="8" style="border-left:0;"><br/></td>
@@ -919,7 +923,7 @@ root@atlantis:~# ip -6 route show dev eth0
 						<td colspan="8" style="border-right:0;"><br/></td><td colspan="16" style="border-left:0;border-right:0">... Destination Address ...</td><td colspan="8" style="border-left:0;"><br/></td>
 					</tr>
 					<tr>
-						<td colspan="24">TCP Header</td><td colspan="9">/bin/bash</td>
+						<td colspan="20">TCP Header (20 octets)</td><td colspan="9">/bin/bash (9 octets)</td>
 					</tr>
 				</table>
 				
@@ -931,7 +935,7 @@ root@atlantis:~# ip -6 route show dev eth0
 						<td colspan="4">Version = 6</td><td colspan="8">Traffic Class</td><td colspan="20">Flow Label</td>
 					</tr>
 					<tr>
-						<td colspan="16">Payload Length = 36</td><td colspan="8">Next Header = 44</td><td colspan="8">Hop Limit</td>
+						<td colspan="16">Payload Length = 32</td><td colspan="8">Next Header = 44</td><td colspan="8">Hop Limit</td>
 					</tr>
 					<tr>
 						<td colspan="8" style="border-right:0;"><br/></td><td colspan="16" style="border-left:0;border-right:0"> ... Source Address ...</td><td colspan="8" style="border-left:0;"><br/></td>
@@ -946,7 +950,7 @@ root@atlantis:~# ip -6 route show dev eth0
 						<td colspan="32">0xdeadbeef</td>
 					</tr>
 					<tr>
-						<td colspan="24">TCP Header</td><td colspan="4">/bin</td>
+						<td colspan="20">TCP Header (20 octets)</td><td colspan="4">/bin (4 octets)</td>
 					</tr>
 				</table>
 				
@@ -956,7 +960,7 @@ root@atlantis:~# ip -6 route show dev eth0
 						<td colspan="4">Version = 6</td><td colspan="8">Traffic Class</td><td colspan="20">Flow Label</td>
 					</tr>
 					<tr>
-						<td colspan="16">Payload Length = 37</td><td colspan="8">Next Header = 44</td><td colspan="8">Hop Limit</td>
+						<td colspan="16">Payload Length = 13</td><td colspan="8">Next Header = 44</td><td colspan="8">Hop Limit</td>
 					</tr>
 					<tr>
 						<td colspan="8" style="border-right:0;"><br/></td><td colspan="16" style="border-left:0;border-right:0"> ... Source Address ...</td><td colspan="8" style="border-left:0;"><br/></td>
@@ -965,13 +969,13 @@ root@atlantis:~# ip -6 route show dev eth0
 						<td colspan="8" style="border-right:0;"><br/></td><td colspan="16" style="border-left:0;border-right:0">... Destination Address ...</td><td colspan="8" style="border-left:0;"><br/></td>
 					</tr>
 					<tr>
-						<td colspan="8">Next Header = 6</td><td colspan="8">Ignored</td><td colspan="13">Fragment Offset = 4</td><td colspan="2">Res</td><td colspan="1">0</td>
+						<td colspan="8">Next Header = 6</td><td colspan="8">Ignored</td><td colspan="13">Fragment Offset = 3</td><td colspan="2">Res</td><td colspan="1">0</td>
 					</tr>
 					<tr>
 						<td colspan="32">0xdeadbeef</td>
 					</tr>
 					<tr>
-						<td colspan="24">TCP Header</td><td colspan="5">/bash</td>
+						<td colspan="5">/bash (5 octets)</td>
 					</tr>
 				</table>
 			</div>
