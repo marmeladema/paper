@@ -1,0 +1,43 @@
+html {
+	width: auto;
+	height: auto;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	height: auto;
+}
+
+table.frame {
+	border-spacing:0;
+	border-collapse:collapse;
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding:0;
+	table-layout: fixed;
+}
+
+table.frame tbody {
+	background-color:gold;
+}
+
+table.frame th {
+	border-left: 1px solid;
+	text-align:center;
+	font-size:0.5em;
+	text-align:left;
+	width: 100%;
+}
+
+table.frame td {
+	border: 1px solid;
+	text-align:center;
+	font-size:0.5em;
+}
+
+table.frame caption {
+	caption-side:bottom;
+	font-size: 0.7em;
+}

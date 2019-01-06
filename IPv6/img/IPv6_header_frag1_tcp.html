@@ -1,0 +1,36 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/frame.css">
+</head>
+<body style="width: 500px">
+	<table class="frame">
+		<!--<caption>En-t&ecirc;te IPv6 <small>(align&eacute; sur 32 bits)</small></caption>-->
+		<thead>
+			<tr><th colspan="4">0</th><th colspan="4">4</th><th colspan="4">8</th><th colspan="4">12</th><th colspan="4">16</th><th colspan="4">20</th><th colspan="4">24</th><th colspan="4">28</th></tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td colspan="4">Version = 6</td><td colspan="8">Traffic Class</td><td colspan="20">Flow Label</td>
+			</tr>
+			<tr>
+				<td colspan="16">Payload Length = 32</td><td colspan="8">Next Header = 44</td><td colspan="8">Hop Limit</td>
+			</tr>
+			<tr>
+				<td colspan="8" style="border-right:0;"><br/></td><td colspan="16" style="border-left:0;border-right:0"> ... Source Address ...</td><td colspan="8" style="border-left:0;"><br/></td>
+			</tr>
+			<tr>
+				<td colspan="8" style="border-right:0;"><br/></td><td colspan="16" style="border-left:0;border-right:0">... Destination Address ...</td><td colspan="8" style="border-left:0;"><br/></td>
+			</tr>
+			<tr style="background-color:orange;">
+				<td colspan="8">Next Header = 6</td><td colspan="8">Ignored</td><td colspan="13">Fragment Offset = 0</td><td colspan="2">Res</td><td colspan="1">1</td>
+			</tr>
+			<tr style="background-color:orange;">
+				<td colspan="32">0xdeadbeef</td>
+			</tr>
+			<tr style="background-color:red;">
+				<td colspan="20">TCP Header (20 octets)</td><td colspan="4">/bin (4 octets)</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>

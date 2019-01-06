@@ -1,0 +1,38 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/frame.css">
+</head>
+<body style="width: 500px">
+	<table class="frame">
+		<!--<caption>En-t&ecirc;te IPv4 <small>(align&eacute; sur 32bits)</small></caption>-->
+		<thead>
+			<tr><th colspan="4">0</th><th colspan="4">4</th><th colspan="4">8</th><th colspan="4">12</th><th colspan="4">16</th><th colspan="4">20</th><th colspan="4">24</th><th colspan="4">28</th></tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td colspan="4">Version = 4</td><td colspan="4">IHL</td><td colspan="6">DSCP</td><td colspan="2">ECN</td><td colspan="16">Total Length</td>
+			</tr>
+			
+			<tr>
+				<td colspan="16">Identification</td><td colspan="3">Flags</td><td colspan="13">Fragment Offset</td>
+			</tr>
+			
+			<tr>
+				<td colspan="8">Time To Live</td><td colspan="8">Protocol</td><td colspan="16">Header Checksum</td>
+			</tr>
+			
+			<tr>
+				<td colspan="32">Source Address</td>
+			</tr>
+			
+			<tr>
+				<td colspan="32">Destination Address</td>
+			</tr>
+			
+			<tr>
+				<td colspan="32">[Option(s) + padding]</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>

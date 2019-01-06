@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="329.94717mm"
+   height="202.30042mm"
+   viewBox="0 0 329.94717 202.30042"
+   version="1.1"
+   id="svg7242">
+  <defs
+     id="defs7236" />
+  <metadata
+     id="metadata7239">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0.26458333,0,0,0.26458333,-66.807291,-41.433749)"
+     id="g887">
+    <g
+       id="paths">
+      <g
+         id="Access_control" />
+      <g
+         id="Azure_active_directory" />
+      <g
+         id="Generic_code" />
+      <g
+         id="Laptop" />
+      <g
+         id="Load_balancer" />
+      <g
+         id="Lock_x2C__protected" />
+    </g>
+    <g
+       id="symbols" />
+    <g
+       id="slices" />
+    <g
+       id="User" />
+    <g
+       id="Video" />
+    <g
+       id="Virtual_machine_2" />
+    <g
+       id="Web" />
+    <g
+       id="Web_server" />
+    <g
+       id="Windows_server" />
+    <g
+       id="Workstation_client">
+      <g
+         id="g857">
+        <path
+           style="fill:#00188f"
+           d="M 567.7,274.8 H 346.4 c -3.9,0 -7.9,3.2 -7.9,7.9 v 140.2 c 0,3.9 3.2,10.2 7.9,10.2 h 94.5 c 0,8.7 0,14.2 0,15 0,4.7 -7.1,13.4 -12.6,13.4 -1.6,0 -15.8,0 -15.8,0 -17.3,0 -29.9,4.7 -29.9,14.2 0,4.7 -0.8,4.7 16.5,4.7 0,0 4.7,0 8.7,0 13.4,0 15.8,-7.9 29.1,-7.9 4.7,0 29.1,0 33.9,0 13.4,0 23.6,7.9 32.3,7.9 4.7,0 8.7,0 8.7,0 17.3,0 17.3,-0.8 17.3,-4.7 0,-8.7 -13.4,-14.2 -30.7,-14.2 0,0 -14.2,0 -15.8,0 -4.7,0 -11,-8.7 -11,-13.4 0,-0.8 0,-6.3 0,-15 h 94.5 c 3.9,0 7.9,-5.5 7.9,-10.2 V 282.6 c 1.6,-3.9 -1.6,-7.8 -6.3,-7.8 z M 552,408.7 H 363 V 298.4 h 189 z"
+           id="path851" />
+        <g
+           id="g855">
+          <path
+             style="fill:#00188f"
+             d="M 323.5,400.8 V 282.6 c 0,-12.6 10.2,-23.6 23.6,-23.6 h 63 v -86.6 c 0,-8.7 -7.1,-15.8 -15.8,-15.8 h -126 c -8.7,0 -15.8,7.1 -15.8,15.8 v 307.2 h 115.8 c 0,-1.6 0,-3.9 0,-4.7 V 474 c 0,-5.5 1.6,-19.7 22.1,-26.8 H 387.2 348 277.1 v -15.8 h 49.6 c -1.6,-3.2 -2.4,-7.1 -2.4,-10.2 v -5.5 H 277 V 400 h 46.5 z M 276.3,196 h 110.3 v 23.6 H 276.3 Z"
+             id="path853" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="translate(259.38636,-63.238226)"
+     id="g4962">
+    <g
+       id="g979"
+       transform="matrix(2.089563,0,0,2.089563,-71.947378,18.939493)">
+      <g
+         id="Layer_1">
+        <g
+           id="File_x2C__general">
+          <title
+             id="title889">Sheet.1071</title>
+        </g>
+        <g
+           id="Message" />
+        <g
+           id="Monitor" />
+        <g
+           id="Monitor_running_apps" />
+        <g
+           id="Mouse" />
+        <g
+           id="Network_card" />
+        <g
+           id="Not_allowed" />
+        <g
+           id="Performance" />
+        <g
+           id="Phone" />
+        <g
+           id="Plug_and_play" />
+        <g
+           id="Powershell_script_file" />
+        <g
+           id="Protocol_stack" />
+        <g
+           id="Queue_x2C__general" />
+        <g
+           id="RMS_connector" />
+        <g
+           id="Router">
+          <g
+             id="g921">
+            <path
+               id="path905"
+               d="M 59.3,40.2 H 24.1 c -1,0 -1.9,0.6 -1.9,1.4 v 7.1 c 0,0.8 0.8,1.4 1.9,1.4 h 35.2 c 1,0 1.9,-0.6 1.9,-1.4 v -7.1 c 0,-0.7 -0.9,-1.4 -1.9,-1.4 z m -31.1,7 c -1.1,0 -2,-0.9 -2,-2 0,-1.1 0.9,-2 2,-2 1.1,0 2,0.9 2,2 0,1.1 -0.9,2 -2,2 z m 9,0 c -1.1,0 -2,-0.9 -2,-2 0,-1.1 0.9,-2 2,-2 1.1,0 2,0.9 2,2 0,1.1 -0.9,2 -2,2 z m 9,0 c -1.1,0 -2,-0.9 -2,-2 0,-1.1 0.9,-2 2,-2 1.1,0 2,0.9 2,2 0,1.1 -0.9,2 -2,2 z m 9,0 c -1.1,0 -2,-0.9 -2,-2 0,-1.1 0.9,-2 2,-2 1.1,0 2,0.9 2,2 0,1.1 -0.9,2 -2,2 z"
+               style="clip-rule:evenodd;fill:#2a3282;fill-rule:evenodd" />
+            <polygon
+               id="polygon907"
+               points="61.2,37.2 54,30.2 29.4,30.2 22.2,37.2 "
+               style="clip-rule:evenodd;fill:#2a3282;fill-rule:evenodd" />
+            <g
+               id="lowPriority40x40_4_">
+              <polygon
+                 id="polygon909"
+                 points="59,29 60.4,30.4 66.4,24.4 66.4,30 68.2,28.3 68.2,21.2 61.1,21.2 59.3,23 65,23 "
+                 style="fill:#2a3282" />
+            </g>
+            <g
+               id="lowPriority40x40_3_">
+              <polygon
+                 id="polygon912"
+                 points="59,54.4 60.4,53 66.4,59 66.4,53.4 68.2,55.1 68.2,62.2 61.1,62.2 59.3,60.4 65,60.4 "
+                 style="fill:#2a3282" />
+            </g>
+            <g
+               id="lowPriority40x40_2_">
+              <polygon
+                 id="polygon915"
+                 points="25.4,29 24,30.4 18,24.4 18,30 16.2,28.3 16.2,21.2 23.3,21.2 25,23 19.4,23 "
+                 style="fill:#2a3282" />
+            </g>
+            <g
+               id="lowPriority40x40_1_">
+              <polygon
+                 id="polygon918"
+                 points="24.4,54.4 23,53 17,59 17,53.4 15.2,55.1 15.2,62.2 22.3,62.2 24,60.4 18.4,60.4 "
+                 style="fill:#2a3282" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="paths-2">
+        <g
+           id="Access_control-6" />
+        <g
+           id="Azure_active_directory-1" />
+        <g
+           id="Generic_code-8" />
+        <g
+           id="Laptop-7" />
+        <g
+           id="Load_balancer-9" />
+        <g
+           id="Lock_x2C__protected-2" />
+      </g>
+      <g
+         id="symbols-0" />
+      <g
+         id="slices-2" />
+    </g>
+  </g>
+  <g
+     transform="matrix(-0.26458333,0,0,0.26458333,215.18609,-20.162979)"
+     id="g6482">
+    <polygon
+       transform="translate(0,5.2913387e-5)"
+       points="400,314.32 476.213,238.105 400,161.893 400,223.106 0,223.106 0,253.106 400,253.106 "
+       id="polygon6427" />
+    <g
+       id="g6429" />
+    <g
+       id="g6431" />
+    <g
+       id="g6433" />
+    <g
+       id="g6435" />
+    <g
+       id="g6437" />
+    <g
+       id="g6439" />
+    <g
+       id="g6441" />
+    <g
+       id="g6443" />
+    <g
+       id="g6445" />
+    <g
+       id="g6447" />
+    <g
+       id="g6449" />
+    <g
+       id="g6451" />
+    <g
+       id="g6453" />
+    <g
+       id="g6455" />
+    <g
+       id="g6457" />
+  </g>
+  <g
+     transform="translate(307.67674,25.750091)"
+     id="layer1-4">
+    <g
+       transform="translate(-151.19048,18.142857)"
+       id="g7915">
+      <g
+         id="g7805"
+         transform="matrix(0.0524231,0,0,0.0524231,62.986708,110.71644)">
+        <g
+           id="g7703">
+          <g
+             id="g7701">
+            <path
+               id="path7699"
+               d="m 322.71,242.582 c -7.397,-3.677 -16.406,-0.703 -20.127,6.709 -6.416,12.832 -26.748,12.832 -33.164,0 -5.352,-10.741 -21.432,-10.77 -26.836,0 -6.416,12.832 -26.748,12.832 -33.164,0 -3.706,-7.412 -12.729,-10.386 -20.127,-6.709 -7.412,3.706 -10.415,12.715 -6.709,20.127 8.276,16.553 24.917,26.836 43.418,26.836 11.272,0 21.581,-4.177 30,-10.902 8.419,6.725 18.728,10.902 30,10.902 18.501,0 35.142,-10.283 43.418,-26.836 3.706,-7.412 0.703,-16.421 -6.709,-20.127 z" />
+          </g>
+        </g>
+        <g
+           id="g7709">
+          <g
+             id="g7707">
+            <path
+               id="path7705"
+               d="m 316.001,181 h -30 c -8.291,0 -15,6.709 -15,15 0,8.291 6.709,15 15,15 h 30 c 8.291,0 15,-6.709 15,-15 0,-8.291 -6.709,-15 -15,-15 z" />
+          </g>
+        </g>
+        <g
+           id="g7715">
+          <g
+             id="g7713">
+            <path
+               id="path7711"
+               d="m 226.001,181 h -30 c -8.291,0 -15,6.709 -15,15 0,8.291 6.709,15 15,15 h 30 c 8.291,0 15,-6.709 15,-15 0,-8.291 -6.709,-15 -15,-15 z" />
+          </g>
+        </g>
+        <g
+           id="g7721">
+          <g
+             id="g7719">
+            <path
+               id="path7717"
+               d="m 256.001,0 c -107.52,0 -195,95.204 -195,211 0,103.233 143.423,185.001 180,204.175 V 497 c 0,8.291 6.709,15 15,15 8.291,0 15,-6.709 15,-15 v -81.825 c 36.577,-19.175 180,-100.942 180,-204.175 0,-115.796 -87.48,-211 -195,-211 z m 21.195,369.848 -6.196,4.955 v -28.802 c 0,-8.291 -6.709,-15 -15,-15 -8.291,0 -15,6.709 -15,15 v 28.804 l -6.182,-4.942 C 173.164,320.511 140.322,244.12 146.943,165.502 147.646,157.24 154.179,151 162.133,151 h 187.734 c 7.954,0 14.487,6.24 15.19,14.502 6.621,78.618 -26.221,155.01 -87.861,204.346 z" />
+          </g>
+        </g>
+        <g
+           id="g7727">
+          <g
+             id="g7725">
+            <path
+               id="path7723"
+               d="m 93.813,344.376 c -15.934,10.977 -27.589,27.751 -31.379,47.446 -17.151,2.031 -32.929,13.246 -38.498,29.939 L 0.777,492.254 c -1.538,4.585 -0.762,9.609 2.051,13.521 2.827,3.911 7.354,6.226 12.173,6.226 h 196 V 432.999 C 181.409,416.316 133.146,385.756 93.813,344.376 Z" />
+          </g>
+        </g>
+        <g
+           id="g7733">
+          <g
+             id="g7731">
+            <path
+               id="path7729"
+               d="m 511.224,492.253 -23.159,-70.492 c -5.568,-16.694 -21.347,-27.909 -38.498,-29.94 -3.79,-19.696 -15.445,-36.468 -31.381,-47.445 C 378.873,385.734 330.632,416.285 301,432.995 V 512 h 196 c 4.819,0 9.346,-2.314 12.173,-6.226 2.813,-3.911 3.589,-8.936 2.051,-13.521 z" />
+          </g>
+        </g>
+        <g
+           id="g7735" />
+        <g
+           id="g7737" />
+        <g
+           id="g7739" />
+        <g
+           id="g7741" />
+        <g
+           id="g7743" />
+        <g
+           id="g7745" />
+        <g
+           id="g7747" />
+        <g
+           id="g7749" />
+        <g
+           id="g7751" />
+        <g
+           id="g7753" />
+        <g
+           id="g7755" />
+        <g
+           id="g7757" />
+        <g
+           id="g7759" />
+        <g
+           id="g7761" />
+        <g
+           id="g7763" />
+      </g>
+      <g
+         id="g7858"
+         transform="matrix(0.26458333,0,0,0.26458333,-44.382291,31.301638)">
+        <g
+           id="paths-0">
+          <g
+             id="Access_control-63" />
+          <g
+             id="Azure_active_directory-2" />
+          <g
+             id="Generic_code-0" />
+          <g
+             id="Laptop-6" />
+          <g
+             id="Load_balancer-1" />
+          <g
+             id="Lock_x2C__protected-5" />
+        </g>
+        <g
+           id="symbols-5" />
+        <g
+           id="slices-4" />
+        <g
+           id="User-7" />
+        <g
+           id="Video-6" />
+        <g
+           id="Virtual_machine_2-5" />
+        <g
+           id="Web-6" />
+        <g
+           id="Web_server-9" />
+        <g
+           id="Windows_server-3" />
+        <g
+           id="Workstation_client-7">
+          <g
+             id="g7828">
+            <path
+               id="path7822"
+               d="M 567.7,274.8 H 346.4 c -3.9,0 -7.9,3.2 -7.9,7.9 v 140.2 c 0,3.9 3.2,10.2 7.9,10.2 h 94.5 c 0,8.7 0,14.2 0,15 0,4.7 -7.1,13.4 -12.6,13.4 -1.6,0 -15.8,0 -15.8,0 -17.3,0 -29.9,4.7 -29.9,14.2 0,4.7 -0.8,4.7 16.5,4.7 0,0 4.7,0 8.7,0 13.4,0 15.8,-7.9 29.1,-7.9 4.7,0 29.1,0 33.9,0 13.4,0 23.6,7.9 32.3,7.9 4.7,0 8.7,0 8.7,0 17.3,0 17.3,-0.8 17.3,-4.7 0,-8.7 -13.4,-14.2 -30.7,-14.2 0,0 -14.2,0 -15.8,0 -4.7,0 -11,-8.7 -11,-13.4 0,-0.8 0,-6.3 0,-15 h 94.5 c 3.9,0 7.9,-5.5 7.9,-10.2 V 282.6 c 1.6,-3.9 -1.6,-7.8 -6.3,-7.8 z M 552,408.7 H 363 V 298.4 h 189 z"
+               style="fill:#00188f" />
+            <g
+               id="g7826">
+              <path
+                 id="path7824"
+                 d="M 323.5,400.8 V 282.6 c 0,-12.6 10.2,-23.6 23.6,-23.6 h 63 v -86.6 c 0,-8.7 -7.1,-15.8 -15.8,-15.8 h -126 c -8.7,0 -15.8,7.1 -15.8,15.8 v 307.2 h 115.8 c 0,-1.6 0,-3.9 0,-4.7 V 474 c 0,-5.5 1.6,-19.7 22.1,-26.8 H 387.2 348 277.1 v -15.8 h 49.6 c -1.6,-3.2 -2.4,-7.1 -2.4,-10.2 v -5.5 H 277 V 400 h 46.5 z M 276.3,196 h 110.3 v 23.6 H 276.3 Z"
+                 style="fill:#00188f" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.26458333,0,0,0.26458333,77.75376,89.021321)"
+     id="g8349">
+    <polygon
+       transform="rotate(45,287.41922,119.05506)"
+       id="polygon2"
+       points="76.212,253.107 476.213,253.107 476.213,223.107 76.212,223.107 76.212,161.893 0,238.108 76.212,314.32 " />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g4" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g6" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g8" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g10" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g12" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g14" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g16" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g18" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g20" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g22" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g24" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g26" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g28" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g30" />
+    <g
+       transform="translate(-69.738719,-69.738719)"
+       id="g32" />
+  </g>
+  <circle
+     r="10.583333"
+     cy="117.20686"
+     cx="106.69512"
+     id="path10510"
+     style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     r="10.583333"
+     cy="41.826832"
+     cx="144.76489"
+     id="path10510-9"
+     style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <flowRoot
+     transform="matrix(0.47759363,0,0,0.47759363,159.72307,-326.00709)"
+     style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot10649-7"
+     xml:space="preserve"><flowRegion
+       id="flowRegion10651-6"><rect
+         y="762.51971"
+         x="-260"
+         height="80"
+         width="120"
+         id="rect10653-7" /></flowRegion><flowPara
+       style="font-size:53.33333588px"
+       id="flowPara10655-3">H1</flowPara></flowRoot>  <g
+     transform="translate(105.83334,-158.41125)"
+     id="g10916">
+    <circle
+       style="fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path10510-7"
+       cx="33.639885"
+       cy="308.71729"
+       r="10.583333" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10903"
+       style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-97.89584,162.94696)"><flowRegion
+         id="flowRegion10905"><rect
+           id="rect10907"
+           width="100"
+           height="80"
+           x="480"
+           y="523.79999" /></flowRegion><flowPara
+         id="flowPara10909">3</flowPara></flowRoot>  </g>
+  <flowRoot
+     transform="matrix(0.26458333,0,0,0.26458333,12.123802,3.0264005)"
+     style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot10943"
+     xml:space="preserve"><flowRegion
+       id="flowRegion10945"><rect
+         y="403.79996"
+         x="340"
+         height="80"
+         width="140"
+         id="rect10947" /></flowRegion><flowPara
+       id="flowPara10949">2</flowPara></flowRoot>  <flowRoot
+     transform="matrix(0.26458333,0,0,0.26458333,8.1737442,7.1144005)"
+     style="font-style:normal;font-weight:normal;font-size:53.33333206px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="flowRoot10951"
+     xml:space="preserve"><flowRegion
+       id="flowRegion10953"><rect
+         y="103.79996"
+         x="500"
+         height="120"
+         width="100"
+         id="rect10955" /></flowRegion><flowPara
+       id="flowPara10957">1</flowPara></flowRoot></svg>
